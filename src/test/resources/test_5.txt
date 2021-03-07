@@ -1,0 +1,9 @@
+mkdir home
+cd home
+mkdir documents
+mkdir images
+mkdir videos
+touch foo.txt
+pwd
+ls
+quit

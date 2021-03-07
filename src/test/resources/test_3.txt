@@ -1,0 +1,7 @@
+mkdir home
+mkdir home
+cd home
+mkdir documents
+cd documents
+pwd
+quit

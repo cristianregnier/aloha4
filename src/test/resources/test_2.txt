@@ -1,0 +1,7 @@
+mkdir home
+mkdir usr
+mkdir bin
+mkdir var
+touch swapfile
+ls
+quit
